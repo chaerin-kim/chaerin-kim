@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=ffffff) 
+![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=ffffff)
 <!-- ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) -->
 <br>
 
@@ -83,6 +85,7 @@ Here are some ideas to get you started:
 
 |⭐ 프로젝트명|🔥 맡은 역할|🔗 GitHub 주소|📷 스크린샷|
 |----------|----------|-------------|---------|
-|제일 잘한것| | | |
-|2nd| | | |
+|Guru(초단기 알바 매칭 플랫폼)| 디자인&기획, Map(카카오맵)부분 및 오프라인 리스트 부분, 만족도조사, 신뢰도조사 및 프로필 반영, 결제(PortOne)|https://github.com/FE-Guru (배포 링크 : https://hpe-guru.netlify.app/) |  ![image](https://github.com/user-attachments/assets/cf9affb4-b230-4ef3-96cf-86f33c664889)
+|
+|Organic Kitcheen recipe(오가닉 레시피 공유 사이트)| 개인 프로젝트 | | |
 |평범한 것||||
