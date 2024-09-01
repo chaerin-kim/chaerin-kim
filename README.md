@@ -88,5 +88,4 @@ Here are some ideas to get you started:
 |Guru(초단기 알바 매칭 플랫폼)| 디자인&기획, Map(카카오맵)부분 및 오프라인 리스트 부분, 만족도조사, 신뢰도조사 및 프로필 반영, 결제(PortOne)|https://github.com/FE-Guru (배포 링크 : https://hpe-guru.netlify.app/) |  ![image](https://github.com/user-attachments/assets/cf9affb4-b230-4ef3-96cf-86f33c664889)|
 |Organic Kitcheen recipe(오가닉 레시피 공유 사이트)| 개인프로젝트(디자인 및 전반적인 개발) | https://github.com/chaerin-kim/Organic-Recipe | ![image](https://github.com/user-attachments/assets/8447ea78-fb3a-435f-a965-d4870a9350f7) |
 |Sportify(스포츠강좌 이용권 검색 사이트)|개인프로젝트(디자인 및 전반적인 개발)|https://github.com/chaerin-kim/Sportify|![image](https://github.com/user-attachments/assets/e2128308-d0d6-4344-a909-c48e01bdbf25)|
-|Cherry-pick(포트폴리오용 템플릿)|개인프로젝트(디자인 및 전반적인 개발)|https://github.com/chaerin-kim/Cherry-pick|![image](https://github.com/user-attachments/assets/9b807a3b-3d7d-43e9-95e9-2652f0dfacf5)
-|
+|Cherry-pick(포트폴리오용 템플릿)|개인프로젝트(디자인 및 전반적인 개발)|https://github.com/chaerin-kim/Cherry-pick|![image](https://github.com/user-attachments/assets/9b807a3b-3d7d-43e9-95e9-2652f0dfacf5)|
