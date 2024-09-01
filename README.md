@@ -87,5 +87,5 @@ Here are some ideas to get you started:
 |----------|----------|-------------|---------|
 |Guru(초단기 알바 매칭 플랫폼)| 디자인&기획, Map(카카오맵)부분 및 오프라인 리스트 부분, 만족도조사, 신뢰도조사 및 프로필 반영, 결제(PortOne)|https://github.com/FE-Guru (배포 링크 : https://hpe-guru.netlify.app/) |  ![image](https://github.com/user-attachments/assets/cf9affb4-b230-4ef3-96cf-86f33c664889)
 |
-|Organic Kitcheen recipe(오가닉 레시피 공유 사이트)| 개인 프로젝트 | | |
+|Organic Kitcheen recipe(오가닉 레시피 공유 사이트)| 개인 프로젝트 | https://github.com/chaerin-kim/Organic-Recipe | ![image](https://github.com/user-attachments/assets/8447ea78-fb3a-435f-a965-d4870a9350f7) |
 |평범한 것||||
