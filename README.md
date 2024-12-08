@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🌱 Portfolio
+### 🌱 DEV Portfolio
 
 
 |⭐ 프로젝트명|🔥 맡은 역할|🔗 GitHub 주소|📷 스크린샷|
@@ -96,3 +96,8 @@ Here are some ideas to get you started:
 |Organic Kitcheen recipe(오가닉 레시피 공유 사이트)| 개인프로젝트(디자인 및 전반적인 개발) | https://github.com/chaerin-kim/Organic-Recipe | ![OKR Sumnail](https://github.com/user-attachments/assets/ad0c96e6-315d-4448-ac33-33e0d9035af0) |
 |Sportify(스포츠강좌 이용권 검색 사이트)|개인프로젝트(디자인 및 전반적인 개발)|https://github.com/chaerin-kim/Sportify|![image](https://github.com/user-attachments/assets/e2128308-d0d6-4344-a909-c48e01bdbf25)|
 |Cherry-pick(포트폴리오용 템플릿)|개인프로젝트(디자인 및 전반적인 개발)|https://github.com/chaerin-kim/Cherry-pick|![image](https://github.com/user-attachments/assets/9b807a3b-3d7d-43e9-95e9-2652f0dfacf5)|
+
+#### 🎨 DESIGN Portfolio  
+**Link**: [https://chery580908.editorx.io/portfolio](https://chery580908.editorx.io/portfolio)  
+**Guest Code**: `5809`
+
