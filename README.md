@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <!--
 **chaerin-kim/chaerin-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-
---------
 <!-- Header -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerin-kim%2Fchaerin-kim&count_bg=%23FF8FF9&title_bg=%23D3D3D3&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaerin-kim%2Fchaerin-kim&count_bg=%23FF8FF9&title_bg=%23D3D3D3&icon=&icon_color=%23E7E7E7&title=%EC%A1%B0%ED%9A%8C%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ![Waving](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Introduce%20Myself&fontColor=0&animation=fadeIn&descAlign=54)
 
@@ -34,6 +29,9 @@ Here are some ideas to get you started:
 > - UX/UI 경력을 살려 product 를 빠르게 이해하고, 추가적인 아이디어🌟💭도 제안드릴 수 있습니다.
 > - 디자인🎨 & 개발💻 지식을 다양한 프로젝트에 적용시킬 수 있습니다.
 <br>
+
+
+
 <!-- Body -->
 
 ### 🦾 Skills
@@ -87,7 +85,8 @@ Here are some ideas to get you started:
 
 <br>
 
-### 🌱 DEV Portfolio
+--------
+### 🌱 Personal DEV Portfolio
 
 
 |⭐ 프로젝트명|🔥 맡은 역할|🔗 GitHub 주소|📷 스크린샷|
